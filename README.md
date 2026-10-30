@@ -8,7 +8,7 @@
 git clone https://github.com/NodesNodes/claude-code-glm-skill.git ~/.claude/skills/claude-code-glm-skill
 ```
 
-Репозиторий закрытый: git должен быть авторизован в GitHub. В Claude Code вызови `/claude-code-glm-skill` и попроси переключить модель. Полный порядок действий находится в [SKILL.md](SKILL.md).
+В Claude Code вызови `/claude-code-glm-skill` и попроси переключить модель. Полный порядок действий находится в [SKILL.md](SKILL.md).
 
 ## Использование скрипта вручную
 
